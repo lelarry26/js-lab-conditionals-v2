@@ -64,13 +64,9 @@ $ node lab.js
 
 9. Write a program that prompts the user for their birth year and determines if they are a millennial (born between 1981 and 1996).
 
-10. Write a program that prompts the user for a temperature in Fahrenheit and converts it to Celsius.
+10. Write a program that prompts the user for their age and checks if they are a teenager (ages 13-19).
 
-11. Write a program that prompts the user for a day of the week and determines if it is a weekday or weekend.
+11. Write a program that prompts the user for their favorite color and prints a message based on their choice.
 
-12. Write a program that prompts the user for their age and checks if they are a teenager (ages 13-19).
 
-13. Write a program that prompts the user for their favorite color and prints a message based on their choice.
-
-14. Write a program that prompts the user for a letter and checks if it is uppercase or lowercase.
 
