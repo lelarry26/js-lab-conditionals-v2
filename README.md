@@ -1,33 +1,42 @@
 # JavaScript Conditionals Lab Exercises
 
-In this homework assignment, you are going practice the basics of JavaScript as a programming language by completing problems that will challenge you knowledge of core princples. 
+In this homework assignment, you are going practice the basics of writing conditional statements using JavaScript as a programming language by completing problems that will challenge you knowledge of core princples. 
 
 ## Objectives 
 
 - if/else if/else statement syntax
-- condition expressions
-- comparison operators
-- combining conditions with logical operators
+- Condition expressions
+- Comparison operators
+- Combining conditions with logical operators
 
 
 ## Instructions 
 
+- Fork this repo to your account by cliking on the fork Button on the top of the page. A fork is a copy of this repository and will appear on your github account.
+- Find the repository on YOUR account (ie yourUserName/js-lab-conditionals) and click on the green `Code` button at the top of the page. 
+- Copy the path in the dialoge box
 - Navigate to a location on your local computer in VSCode where you keep your homework 
-- Clone this repsository by tying the following command in your terminal 
+- Clone this repsository by tying the following command in your terminal
 
-```bash 
-clone https://github.com/DigitalCraftsStudents/js-hw-101.git
+```
+clone [`path that you just copied`]
 ```
 
-- Navigate into the folder titled `js-hw-101`
+For example: 
+
+```bash 
+clone https://github.com/DigitalCraftsStudents/js-lab-conditionals.git
+```
+
+- Navigate into the folder titled `js-lab-conditionals`
 
 
-- Open the file called `js101.js` and solve the homework problems 
+- Open the file called `lab.js` and solve the lab problems 
 
 - To run a file javascript file using node, you can run it from your terminal like this:
 
 ```bash
-$ node js101.js
+$ node lab.js
 ```
 
 ## Problems 
