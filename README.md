@@ -1,6 +1,6 @@
 # JavaScript Conditionals Lab Exercises
 
-In this homework assignment, you are going practice the basics of writing conditional statements using JavaScript as a programming language by completing problems that will challenge you knowledge of core princples. 
+In this homework assignment, you are going to practice the basics of writing conditional statements using JavaScript as a programming language by completing problems that will challenge your knowledge of core princples. 
 
 ## Objectives 
 
