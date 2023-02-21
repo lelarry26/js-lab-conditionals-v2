@@ -12,11 +12,19 @@ In this homework assignment, you are going practice the basics of writing condit
 
 ## Instructions 
 
-- Fork this repo to your account by cliking on the fork Button on the top of the page. A fork is a copy of this repository and will appear on your github account.
-- Find the repository on YOUR account (ie yourUserName/js-lab-conditionals) and click on the green `Code` button at the top of the page. 
+- **Fork** this repo to your account by cliking on the **fork** Button on the top of the page. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
+
+*A **fork** is a copy of this repository and will appear on your github account.*
+
+- Find the repository on *YOUR* account (ie yourUserName/js-lab-conditionals) and click on the green `Code` button at the top of the page.
+
+![](./images/githubCodeButton.png)
+
 - Copy the path in the dialoge box
 - Navigate to a location on your local computer in VSCode where you keep your homework 
-- Clone this repsository by tying the following command in your terminal
+- Clone this repsository by typing the following command in your terminal
 
 ```
 clone [`path that you just copied`]
