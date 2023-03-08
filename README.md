@@ -24,17 +24,7 @@ In this lab, you are going to practice the basics of writing **conditional state
 
 - Copy the path in the dialoge box
 - Navigate to a location on **your local computer in VSCode** where you keep your homework 
-- Clone this repsository by typing the following command in your terminal
-
-```
-clone [`path that you just copied`]
-```
-
-For example: 
-
-```bash 
-clone https://github.com/DigitalCraftsStudents/js-lab-conditionals.git
-```
+- Clone this repository 
 
 - Navigate into the folder titled `js-lab-conditionals`
 - Open the file called `lab.js` and solve the lab problems 
